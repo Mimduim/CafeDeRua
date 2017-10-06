@@ -1,14 +1,18 @@
+@import '~font-awesome/css/font-awesome.css';
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-  }
+}
 
-  main {
+main {
     flex: 1 0 auto;
-  }
+}
 
-  #icon{
-   color: black;
-   
-  }
+#icon {
+    color: black;
+}
+
+.footer-copyright {
+    background-color: black;
+}
